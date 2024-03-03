@@ -1,0 +1,8 @@
+﻿  03 常量.cpp
+  04 关键字与标识符.cpp
+D:\C++项目\学习C++\学习C++\04 关键字与标识符.cpp(8,18): error C2563: 在形参表中不匹配
+D:\C++项目\学习C++\学习C++\04 关键字与标识符.cpp(8,18): error C2568: “<<”: 无法解析函数重载
+  D:\C++项目\学习C++\学习C++\04 关键字与标识符.cpp(8,18):
+  可能是“std::basic_ostream<_Elem,_Traits> &std::endl(std::basic_ostream<_Elem,_Traits> &)”
+  
+  正在生成代码...
